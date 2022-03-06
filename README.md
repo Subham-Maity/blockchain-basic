@@ -1,7 +1,7 @@
 # BlockChain A-Z
 ## You Can Follow My Own All Research About Blockchain If You Are A Complete Beginner  
 
-# Intro
+# Writer Intro
 I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
@@ -48,6 +48,11 @@ And then again looking at the three data it's got the previous hash it's got its
 
 
 ###  2.Concept of Blockchain 
+1.Consensus Protocol
+2.Mining
+3.Hash Cryptography
+4.Distributed P2P Network
+5.Immutable Ledger
 
 
 ## b.SHA256 - Hash 
