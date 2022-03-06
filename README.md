@@ -9,8 +9,8 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 ### [Complete Research Documentary is Here](https://docs.google.com/document/d/1yB6Hkohe-y_NbCcozgvQXRgCS3fUvq03pM2vzaQxnSk/edit?usp=sharing)
 
 ![screenshot](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/BlockChainXam.jpg)
-# **Blockchain Intuition**
-* [What is Blockchain](#a-.-what-is-blockchain-?)
+
+* [Blockchain Intuition](#blockchain-intuition)
 
 # Blockchain Intuition
 
