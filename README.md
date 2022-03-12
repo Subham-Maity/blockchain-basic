@@ -7,13 +7,21 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
 ### [Complete Research Documentary is Here with Animated Pictures For Better Experience](https://docs.google.com/document/d/1yB6Hkohe-y_NbCcozgvQXRgCS3fUvq03pM2vzaQxnSk/edit?usp=sharing)
+## **Research Chapters**
+#### 1. Blockchain Intuition
+* [a.What is Blockchain](#awhat-is-blockchain- )
+* [SHA256 - Hash](#bsha256---hash)
+* [Immutable Ledger](#cimmutable-ledger)
+
 
 ![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/BlockChainXam.jpg)
 ![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/BlockChainXam2.gif)
 
+
+
 # **Blockchain Intuition:**
 
-**a.What is Blockchain ?**
+## **a.What is Blockchain ?**
 
 ![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.345f490b-4e64-4bc7-b0ac-d556caf0ba83.001.jpeg)
 
@@ -59,7 +67,7 @@ And then again looking at the three data it's got the previous hash it's got its
 
 ![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.345f490b-4e64-4bc7-b0ac-d556caf0ba83.008.jpeg)
 
-**b.SHA256 - Hash**
+## **b.SHA256 - Hash**
 
 **(Secure Hash Algorithm 256)**
 
@@ -201,7 +209,7 @@ So there we go, those are the five requirements for secure and safe hash algorit
 
 [Read more here:](http://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf)
 
-**c.Immutable Ledger**
+## **c.Immutable Ledger**
 
 Now we are moving on Immutable Ledger
 
