@@ -200,3 +200,44 @@ collisions.So collisions should not be possible.
 So there we go, those are the five requirements for secure and safe hash algorithms.They have to be one way deterministic, a fast computation of the avalanche effect and must withstand collisions.
 
 [Read more here:](http://www.staff.science.uu.nl/~tel00101/liter/Books/CrypCont.pdf)
+
+**c.Immutable Ledger**
+
+Now we are moving on Immutable Ledger
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.001.jpeg)
+
+Immutable ledger in blockchain refers to any records that have the ability to remain unchanged. It cannot be altered and hence the data cannot be changed with ease, thereby making sure that the security is quite tight. Immutability means that it is very difficult to make changes without collusion
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.002.jpeg)
+
+How can you prove to someone else that that's your home?
+
+Like why can't you just go up to any house on the street and say that that's your home.Well because in exchange for that money what you get is a **deed** a title deed to the house and whoever has the deed as the owner of the home.So what you need to do the deed is you need to take it to a government authority such as a local council or the city council or some other authority to them they might differ.So there it is.You take the deed there and you register your ownership. You show them the deed and you say this is nowI paid money for it.And I would like to register that it is my home.
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.003.png)
+
+If that building burns down or what if somebody steals that book or what if somebody wants to come
+
+along and hack that book. And we don't even have to use the word hack because it's a book.They just go in and they're about the page and they glue in a different page where everything is the same except for your entry which they changed.
+
+And then what does that mean?Well that means that all of a sudden you don't have the house anymore like physically you might still be living in the house and you might think it's yours. But in reality just because that one line of information has been erased from a book somewhere in the government authority all of a sudden you don't actually have the house and it's even if it's not a book even if it's an electronic document like an Excel spreadsheet.How difficult is it for somebody to go into an Excel spreadsheet and just change one line.
+
+So it's still very easy.
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.004.png)
+
+Let's say we have them so every single title every time somebody buys something or sells a house it's a new blog that's added to this chain and it's even OK that we're not even talking about distributing decentralise.And so every time you can see like we've really there's already been some transactions in this block chain and then it's your turn.
+
+You buy a house.And so you add in each transaction and then a couple of months pass by or a couple of years pass by and then somebody comes along and decides to take your home away from you by tampering with the data in the block.
+
+And they also realize that home and they want to report that page of the book but they get into the facility and they see that it's actually not a book.It's a whole block chain.people bought properties or sold properties and all of those are also record in the ledger.And now so if this person tries to tamper with the data in that specific block then what happens is that will change the hash of this block.
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.005.jpeg)
+
+that will change the hash of this block.to the hash recorded here for the previous block so we have the previous year the field previous hash it will no longer match this one.So this person would have to change this lock as well.
+
+![](https://github.com/Subham-Maity/Blockchain-Research-A-Z/blob/master/Images/Aspose.Words.f54a9039-572f-468f-8d8e-8c126da38dee.006.jpeg)
+
+It would be very easy to tell that very hard for the person to tamper with the record.So unlike in the book where they can just change one entry here they would have to change the all of the entries following yours.And that's what we mean when we say that it's an immutable nature because you cannot change data as soon as data has gone into the box.
+
