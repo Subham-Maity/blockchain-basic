@@ -5,7 +5,7 @@
 I am **Subham Maity**
 I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
 
-Actually, I was working on this project then so I did research and made many projects and then I thought why not make a detailed documentary on it then I started making the documentary which is completely free .
+Actually, I was working on this project then I did research and made many projects and then I thought why not make a detailed documentary on it then I started making the documentary which is completely free .
 ## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
 
 ### [Complete Research Documentary is Here with Animated Pictures For Better Experience](https://docs.google.com/document/d/1yB6Hkohe-y_NbCcozgvQXRgCS3fUvq03pM2vzaQxnSk/edit?usp=sharing)
